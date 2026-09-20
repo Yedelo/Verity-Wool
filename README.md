@@ -10,7 +10,21 @@
 
 Changes the appearance of wool to variants of Verity
 
-## License
+### Appearance
+
+Wool blocks appear as different colors of the standard form of Verity, adapted from [Is it Verity](https://github.com/genizy/is-it-verity/blob/master/LICENSE.txt)'s texture for 'Squarity'.  
+Although there are textures for other variants such as Cruelty, they will not be used, as it is too difficult to figure out a single 'canon' list of variants.
+
+### Versions
+
+Verity Wool is currently developed for pack format 1, officially supporting versions 1.6.1-1.8.9.
+Support for other pack formats should be done in different Git branches.
+
+### BedWars usage
+
+This resource pack can be accompanied by the [DreamersDeluxe](https://modrinth.com/mod/dreamersdeluxe) mod, which changes the names of different teams to Verity variants.
+
+### License
 
 **Verity Wool is licensed under the LGPL-3.0 license.**
 
