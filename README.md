@@ -14,5 +14,5 @@ Changes the appearance of wool to variants of Verity
 
 **Verity Wool is licensed under the LGPL-3.0 license.**
 
-The resource pack itself is adapted from the [Vanilla Texturepack Guide](https://modrinth.com/resourcepack/vanillatexturepackguide) under the Creative Commons Zero v1.0 Universal license.
-The Verity texture is adapted from the [Is it Verity mod](https://github.com/genizy/is-it-verity/blob/master/LICENSE.txt) under the MIT license, which, according to them, is a line of text saying 'MIT.'.
+The resource pack itself is adapted from the [Vanilla Texturepack Guide](https://modrinth.com/resourcepack/vanillatexturepackguide) under the Creative Commons Zero v1.0 Universal license.  
+The Verity texture is adapted from the [Is it Verity mod](https://github.com/genizy/is-it-verity/blob/master/LICENSE.txt) under the MIT license, which, according to them, is a line of text saying 'MIT'.
