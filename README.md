@@ -17,8 +17,8 @@ Although there are textures for other variants such as Cruelty, they will not be
 
 ### Versions
 
-Verity Wool is currently developed for pack format 1, officially supporting versions 1.6.1-1.8.9.
-Support for other pack formats should be done in different Git branches.
+Verity Wool is currently developed for pack format 1 (1.6.1-1.8.9), and tested to work up to 1.18.2.  
+Support for other pack formats should be done in different Git branches.  
 File format: `Verity-Wool-${version}+pf${packFormat}.zip` -> `Verity-Wool-1.0.0+pf1.zip`
 
 ### BedWars usage
