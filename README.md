@@ -18,7 +18,7 @@ Although there are textures for other variants such as Cruelty, they will not be
 ### Versions
 
 Verity Wool specifies pack format 1, but works for formats 1 to 97 (26.3).
-File format: `Verity-Wool-${version}+pf${packFormatRange}.zip` -> `Verity-Wool-1.0.0+pf1-97.zip`
+File format: `Verity-Wool-${version}+pf${packFormatRange}.zip` -> `Verity-Wool-2.0.0+pf1-97.zip`
 
 ### BedWars usage
 
